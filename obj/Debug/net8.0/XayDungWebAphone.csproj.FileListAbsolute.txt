@@ -272,3 +272,4 @@ C:\DOANCOSO\DOANCOSO\obj\Debug\net8.0\refint\XayDungWebAphone.dll
 C:\DOANCOSO\DOANCOSO\obj\Debug\net8.0\XayDungWebAphone.pdb
 C:\DOANCOSO\DOANCOSO\obj\Debug\net8.0\XayDungWebAphone.genruntimeconfig.cache
 C:\DOANCOSO\DOANCOSO\obj\Debug\net8.0\ref\XayDungWebAphone.dll
+C:\DOANCOSO\DOANCOSO\obj\Debug\net8.0\scopedcss\wwwroot\images\_Layout.cshtml.rz.scp.css

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XayDungWebAphone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37149f07e91c1a814d40b53103f17e16aef6410d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7547af5b470672955bfd2663b1eaac4efe7d79d")]
 [assembly: System.Reflection.AssemblyProductAttribute("XayDungWebAphone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XayDungWebAphone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,6 +13,86 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\1200x375.jpg",
+      "PackagePath": "staticwebassets\\images\\1200x375.jpg"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp",
+      "PackagePath": "staticwebassets\\images\\1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\2019.webp",
+      "PackagePath": "staticwebassets\\images\\2019.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\_Layout.cshtml.css",
+      "PackagePath": "staticwebassets\\images\\_Layout.cshtml.css"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\apple-ipad-air-10-9-2020-2.webp",
+      "PackagePath": "staticwebassets\\images\\apple-ipad-air-10-9-2020-2.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\apple-iphone-12-mini-5.webp",
+      "PackagePath": "staticwebassets\\images\\apple-iphone-12-mini-5.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\images\\banner-1.png"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\gen-10-4.webp",
+      "PackagePath": "staticwebassets\\images\\gen-10-4.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\image-removebg-preview_638022082728321716.webp",
+      "PackagePath": "staticwebassets\\images\\image-removebg-preview_638022082728321716.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp",
+      "PackagePath": "staticwebassets\\images\\iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp",
+      "PackagePath": "staticwebassets\\images\\iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp",
+      "PackagePath": "staticwebassets\\images\\iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp",
+      "PackagePath": "staticwebassets\\images\\iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcao1webp.webp",
+      "PackagePath": "staticwebassets\\images\\quangcao1webp.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcao2.webp",
+      "PackagePath": "staticwebassets\\images\\quangcao2.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcaothucudoimoi.webp",
+      "PackagePath": "staticwebassets\\images\\quangcaothucudoimoi.webp"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\xiaomi14-web1.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi14-web1.jpg"
+    },
+    {
       "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
