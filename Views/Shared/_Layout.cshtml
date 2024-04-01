@@ -1,179 +1,179 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>A  STORE</title>
-	<meta name="description" content="Website chuyên Táo APPLE " />
-	<meta name="copyright" content="A STORE" />
-	<meta name="author" content="A STORE" />
-	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
-	<link rel="stylesheet" href="css/bootstrap.css" />
-	<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" />
-	<link rel="stylesheet" href="css/site.css" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A  STORE</title>
+    <meta name="description" content="Website chuyên Táo APPLE " />
+    <meta name="copyright" content="A STORE" />
+    <meta name="author" content="A STORE" />
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/site.css" />
 </head>
 <body>
 
-	<header style="background-color: #FF6600">
-		<head>
+    <header style="background-color: #FF6600">
+        <head>
 
-			<style>
-				.logoquangcao {
-					background-color: #1A4EC3;
-					text-align: center;
-				}
+            <style>
+                .logoquangcao {
+                    background-color: #1A4EC3;
+                    text-align: center;
+                }
 
-				.carousel-inner .item img {
-					height: 280px;
-					width: auto;
-				}
+                .carousel-inner .item img {
+                    height: 280px;
+                    width: auto;
+                }
 
-				.li {
-					background-color: #1A4EC3;
-				}
+                .li {
+                    background-color: #1A4EC3;
+                }
 
-				.div ul li a:hover {
-					background-color: yellow;
-				}
+                .div ul li a:hover {
+                    background-color: yellow;
+                }
 
-				.carousel-inner w-100 {
-					height: 3000px;
-				}
+                .carousel-inner w-100 {
+                    height: 3000px;
+                }
 
-				.col-md-10 {
-					height: 400px;
-				}
-			</style>
+                .col-md-10 {
+                    height: 400px;
+                }
+            </style>
 
-		</head>
+        </head>
 
-		<body>
-			<div class="logoquangcao">
-				<p><img src="~/images/quangcaothucudoimoi.webp" alt="Alternate Text" /></p>
-			</div>
-		</body>
-		<div class="container">
+        <body>
+            <div class="logoquangcao">
+                <p><img src="~/images/quangcaothucudoimoi.webp" alt="Alternate Text" /></p>
+            </div>
+        </body>
+        <div class="container">
+            @await Html.PartialAsync("_MenuPartial")
 
-
-			<div class="col-md-4">
-				<img width="300px" height="70px" src="~/images/logo.svg" alt="">
-			</div>
-
-
-			<div class="col-md-4">
-				<!-- Load icon library -->
-				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-
-				<!-- The form -->
-				<form class="example" action="action_page.php">
-					<input type="text" placeholder="Search.." name="search">
-					<button type="submit"><i class="fa fa-search"></i></button>
-				</form>
-			</div>
-
-			<div class="col-md-4">
-				<li><a href="#" data-toggle="modal" data-target="#modalSignup"><span class="glyphicon glyphicon-user"></span> Đăng ký</a></li>
-				<li><a href="#" data-toggle="modal" data-target="#modalLogin"><span class="glyphicon glyphicon-log-in"></span> Đăng nhập</a></li>
-			</div>
-
-		</div>
-		</div>
+            @* <div class="col-md-4">
+                <img width="300px" height="70px" src="~/images/logo.svg" alt="">
+            </div>
 
 
+            <div class="col-md-4">
+                <!-- Load icon library -->
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-	</header>
+                <!-- The form -->
+                <form class="example" action="action_page.php">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </form>
+            </div>
 
+            <div class="col-md-4">
+                <li><a href="#" data-toggle="modal" data-target="#modalSignup"><span class="glyphicon glyphicon-user"></span> Đăng ký</a></li>
+                <li><a href="#" data-toggle="modal" data-target="#modalLogin"><span class="glyphicon glyphicon-log-in"></span> Đăng nhập</a></li>
+            </div> *@
 
-	<div class="container">
-
-		<div class="row">
-
-			@*<div class="col-md-1">
-			<img src="~/images/quangcao1webp.webp" alt="">
-			</div> *@
-			<div class="col-md-2">
-
-				<ul class="nav nav-pills nav-stacked">
-					<li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-					<li><a asp-area="" asp-controller="Phone" asp-action="Index">Điện thoại</a></li>
-					<li><a asp-area="" asp-controller="Clock" asp-action="Index">Đồng hồ</a></li>
-					<li><a asp-area="" asp-controller="Earphone" asp-action="Index">IPad</a></li>
-					<li><a asp-area="" asp-controller="MacBook" asp-action="Index">Macbook</a></li>
-					<li><a asp-area="" asp-controller="Accessory" asp-action="Index">Phụ kiện</a></li>
-				</ul>
-			</div>
-
-			<div class="col-md-8">
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-					<li data-target="#myCarousel" data-slide-to="3"></li>
-				</ol>
-
-				<div class="carousel-inner w-100">
-					<div class="item active">
-						<img src="images/1200x375.jpg" alt="">
-					</div>
-					<div class="item">
-						<img src="images/xiaomi14-web1.jpg" alt="">
-					</div>
-					<div class="item">
-						<img src="images/sliders/slider-3.png" alt="">
-					</div>
-					<div class="item">
-						<img src="images/sliders/slider-4.png" alt="">
-					</div>
-				</div>
-
-				<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-					<span class="glyphicon glyphicon-chevron-left"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="right carousel-control" href="#myCarousel" data-slide="next">
-					<span class="glyphicon glyphicon-chevron-right"></span>
-					<span class="sr-only">Next</span>
-				</a>
-			</div>
+        </div>
+        </div>
 
 
 
-
-			<div class="col-md-2">
-
-				<ul class="nav nav-pills nav-stacked" role="tablist">
-					<li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-					<li><a href="#">Sữa chữa</a></li>
-					<li><a href="#">Bảo hành</a></li>
-					<li><a href="#">Trả góp</a></li>
-
-				</ul>
-
-			</div>
-
-		</div>
-		@RenderBody()
-	</div>
+    </header>
 
 
+    <div class="container">
 
-		<div class="content">
-			<div class="container">
-				<div class="col-md-9">
-					<div id="myCarousel" class="carousel slide" data-ride="carousel">
-					</div>
+        <div class="row">
+
+            @*<div class="col-md-1">
+            <img src="~/images/quangcao1webp.webp" alt="">
+            </div> *@
+            <div class="col-md-2">
+
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-area="" asp-controller="Phone" asp-action="Index">Điện thoại</a></li>
+                    <li><a asp-area="" asp-controller="Clock" asp-action="Index">Đồng hồ</a></li>
+                    <li><a asp-area="" asp-controller="Earphone" asp-action="Index">IPad</a></li>
+                    <li><a asp-area="" asp-controller="MacBook" asp-action="Index">Macbook</a></li>
+                    <li><a asp-area="" asp-controller="Accessory" asp-action="Index">Phụ kiện</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-8">
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol>
+
+                <div class="carousel-inner w-100">
+                    <div class="item active">
+                        <img src="images/1200x375.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/xiaomi14-web1.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/sliders/slider-3.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="images/sliders/slider-4.png" alt="">
+                    </div>
+                </div>
+
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
 
 
 
-				</div>
-			</div>
-		</div>
-	</div>
-	</div>
 
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.js"></script>
-	@await RenderSectionAsync("Scripts", required: false)
+            <div class="col-md-2">
+
+                <ul class="nav nav-pills nav-stacked" role="tablist">
+                    <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a href="#">Sữa chữa</a></li>
+                    <li><a href="#">Bảo hành</a></li>
+                    <li><a href="#">Trả góp</a></li>
+
+                </ul>
+
+            </div>
+
+        </div>
+        @RenderBody()
+    </div>
+
+
+
+    <div class="content">
+        <div class="container">
+            <div class="col-md-9">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
 
 </body>
 </html>
