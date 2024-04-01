@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DOANCOSO\\DOANCOSO\\XayDungWebAphone.csproj": {}
+    "E:\\doanweb\\project\\XayDungWebAphone.csproj": {}
   },
   "projects": {
-    "C:\\DOANCOSO\\DOANCOSO\\XayDungWebAphone.csproj": {
+    "E:\\doanweb\\project\\XayDungWebAphone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DOANCOSO\\DOANCOSO\\XayDungWebAphone.csproj",
+        "projectUniqueName": "E:\\doanweb\\project\\XayDungWebAphone.csproj",
         "projectName": "XayDungWebAphone",
-        "projectPath": "C:\\DOANCOSO\\DOANCOSO\\XayDungWebAphone.csproj",
-        "packagesPath": "C:\\Users\\tahoa\\.nuget\\packages\\",
-        "outputPath": "C:\\DOANCOSO\\DOANCOSO\\obj\\",
+        "projectPath": "E:\\doanweb\\project\\XayDungWebAphone.csproj",
+        "packagesPath": "C:\\Users\\trand\\.nuget\\packages\\",
+        "outputPath": "E:\\doanweb\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tahoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
