@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace XayDungWebAphone
 {
 	public class Program
@@ -8,6 +10,12 @@ namespace XayDungWebAphone
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
+
+			//var connectionString =
+			//builder.Configuration.GetConnectionString("WebsiteBanHangConnection");
+			//builder.Services.AddDbContext<WebsiteBanHangContext>(options =>
+			// options.UseSqlServer(connectionString));
+
 
 			var app = builder.Build();
 
