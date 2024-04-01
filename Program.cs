@@ -11,8 +11,7 @@ namespace XayDungWebAphone
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
 
-			//var connectionString =
-			//builder.Configuration.GetConnectionString("WebsiteBanHangConnection");
+			var connectionString = builder.Configuration.GetConnectionString("WebAphoneConnection");
 			//builder.Services.AddDbContext<WebsiteBanHangContext>(options =>
 			// options.UseSqlServer(connectionString));
 
