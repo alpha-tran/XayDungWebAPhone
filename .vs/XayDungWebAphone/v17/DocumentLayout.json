@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\doanweb\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|e:\\doanweb\\project\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\doanweb\\project\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\doanweb\\project\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-02T03:17:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "E:\\doanweb\\project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T03:05:03.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "XayDungWebAphone.RazorAssemblyInfo.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\obj\\Debug\\net8.0\\XayDungWebAphone.RazorAssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\XayDungWebAphone.RazorAssemblyInfo.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "XayDungWebAphone.AssemblyInfo.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\obj\\Debug\\net8.0\\XayDungWebAphone.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\XayDungWebAphone.AssemblyInfo.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ErrorViewModel.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "XayDungWebAphoneContext.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\Models\\XayDungWebAphoneContext.cs",
               "RelativeDocumentMoniker": "Models\\XayDungWebAphoneContext.cs",
@@ -123,13 +140,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\doanweb\\project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\doanweb\\project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T04:49:09.518Z",
               "EditorCaption": ""
@@ -142,7 +159,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\doanweb\\project\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-01T04:46:44.299Z",
               "EditorCaption": ""
