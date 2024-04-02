@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ViewModels",
     "\\Views",
     "\\Views\\Home"
   ],
-  "SelectedNode": "\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\ViewModels\\ErrorViewModel.cs",
   "PreviewInSolutionExplorer": false
 }

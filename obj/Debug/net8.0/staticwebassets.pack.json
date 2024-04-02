@@ -5,6 +5,7 @@
       "PackagePath": "staticwebassets\\XayDungWebAphone.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Id": "E:\\doanweb\\project\\wwwroot\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
     },
@@ -30,6 +31,33 @@
     },
     {
       "Id": "E:\\doanweb\\project\\wwwroot\\css\\site.css",
+=======
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\site.css",
+>>>>>>> b3663613a3cb93f4e83a12db20888beaad6e995f
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {

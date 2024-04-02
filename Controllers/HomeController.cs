@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using XayDungWebAphone.Models;
+using XayDungWebAphone.ViewModels;
 
 namespace XayDungWebAphone.Controllers
 {
@@ -23,7 +23,12 @@ namespace XayDungWebAphone.Controllers
 			return View();
 		}
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public async Task<IActionResult> _MenuPartial()
+        {
+            return PartialView();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
 		{
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
