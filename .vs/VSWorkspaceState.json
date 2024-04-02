@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ViewModels",
+    "\\Views",
+    "\\Views\\Home"
   ],
-  "SelectedNode": "\\XayDungWebAphone.sln",
+  "SelectedNode": "\\ViewModels\\ErrorViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
