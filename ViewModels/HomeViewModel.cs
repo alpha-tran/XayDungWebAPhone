@@ -9,6 +9,7 @@ namespace XayDungWebAphone.ViewModels
         public List<Slider> Sliders { get; set; }*/
         public List<Product> CatProds { get; set; }
         public List<Product> DogProds { get; set; }
+        public List<Category> categories { get; set; }
     }
 
 }

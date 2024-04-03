@@ -1,0 +1,62 @@
+﻿@model XayDungWebAphone.ViewModels.HomeViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+</html>
+<div class="col-md-2">
+    <ul class="nav navbar-nav">
+        @foreach (var item in Model.categories)
+        {
+            @* <li><a href="/@item.Link">@item.NameCategory</a></li> *@
+        }
+    </ul>
+</div>
+
+<div class="col-md-8">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <div class="carousel-inner w-100">
+        <div class="item active">
+            <img src="images/1200x375.jpg" alt="">
+        </div>
+        <div class="item">
+            <img src="images/xiaomi14-web1.jpg" alt="">
+        </div>
+        <div class="item">
+            <img src="images/sliders/slider-3.png" alt="">
+        </div>
+        <div class="item">
+            <img src="images/sliders/slider-4.png" alt="">
+        </div>
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="col-md-2">
+    <ul class="nav nav-pills nav-stacked" role="tablist">
+        <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+        <li><a href="#">Sữa chữa</a></li>
+        <li><a href="#">Bảo hành</a></li>
+        <li><a href="#">Trả góp</a></li>
+        <li>
+            <a title="Hotline" href="tel:19008922">
+                <span>1900 8922</span><span>Giao Nhanh Miễn Phí</span>
+                <img src="~/images/giao-nhanh-mien-phi.webp" alt="" style="color: yellow;">
+            </a>
+        </li>
+    </ul>
+</div>
+</html>

@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿@* <!DOCTYPE html>
+<html lang="en"> *@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,9 @@
 </head>
 <body>
 
+
     <header style="background-color: #FF6600">
+
         <head>
 
             <style>
@@ -53,33 +55,11 @@
             </div>
         </body>
         <div class="container">
+            @* Thanh cong cu nav *@
+            
             @await Html.PartialAsync("_MenuPartial")
 
-            @* <div class="col-md-4">
-                <img width="300px" height="70px" src="~/images/logo.svg" alt="">
-            </div>
-
-
-            <div class="col-md-4">
-                <!-- Load icon library -->
-                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-
-                <!-- The form -->
-                <form class="example" action="action_page.php">
-                    <input type="text" placeholder="Search.." name="search">
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                </form>
-            </div>
-
-            <div class="col-md-4">
-                <li><a href="#" data-toggle="modal" data-target="#modalSignup"><span class="glyphicon glyphicon-user"></span> Đăng ký</a></li>
-                <li><a href="#" data-toggle="modal" data-target="#modalLogin"><span class="glyphicon glyphicon-log-in"></span> Đăng nhập</a></li>
-            </div> *@
-
         </div>
-        </div>
-
-
 
     </header>
 
@@ -87,10 +67,11 @@
     <div class="container">
 
         <div class="row">
-
-            @*<div class="col-md-1">
+            @* bang quang cao dien thoai ngoai container *@
+            @* <div class="col-md-1">
             <img src="~/images/quangcao1webp.webp" alt="">
             </div> *@
+            @* @await Html.PartialAsync("_Category") *@
             <div class="col-md-2">
 
                 <ul class="nav nav-pills nav-stacked">
@@ -163,13 +144,11 @@
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 </div>
 
-
-
             </div>
         </div>
     </div>
-    </div>
-    </div>
+
+
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.js"></script>

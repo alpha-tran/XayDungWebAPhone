@@ -28,6 +28,11 @@ namespace XayDungWebAphone.Controllers
             return PartialView();
         }
 
+        public async Task<IActionResult> _CategoryPartial()
+        {
+            return PartialView();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
 		{

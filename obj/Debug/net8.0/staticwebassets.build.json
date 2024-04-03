@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mhoMwmPxssjVqDy4/eATkOrePjaOqEPT1gOXQC5js+I=",
+  "Hash": "Gw8MB4u8r8LiWwF+wnoFYXotgULuKqvWAo2RCdKPqfs=",
   "Source": "XayDungWebAphone",
   "BasePath": "_content/XayDungWebAphone",
   "Mode": "Default",
@@ -414,6 +414,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\gen-10-4.webp"
+    },
+    {
+      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\giao-nhanh-mien-phi.webp",
+      "SourceId": "XayDungWebAphone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "BasePath": "_content/XayDungWebAphone",
+      "RelativePath": "images/giao-nhanh-mien-phi.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\giao-nhanh-mien-phi.webp"
     },
     {
       "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\image-removebg-preview_638022082728321716.webp",
