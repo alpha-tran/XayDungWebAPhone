@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\doanweb\\project\\XayDungWebAphone.csproj",
+      "projectUniqueName": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\XayDungWebAphone.csproj",
       "projectName": "XayDungWebAphone",
-      "projectPath": "E:\\doanweb\\project\\XayDungWebAphone.csproj",
+      "projectPath": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\XayDungWebAphone.csproj",
       "packagesPath": "C:\\Users\\trand\\.nuget\\packages\\",
-      "outputPath": "E:\\doanweb\\project\\obj\\",
+      "outputPath": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trand\\AppData\\Roaming\\NuGet\\NuGet.Config",

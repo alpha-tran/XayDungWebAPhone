@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D+ptNBglR8j3l+wQKVmL3Gw8wO427LE+kU+9wTkkpkh7xa9N5zrhh/WQuDAcBoyc1b/aFfQcigPIVxTc1wiq4w==",
+  "dgSpecHash": "ZG6AKj+GjsF6QNVy/0Tydqp5MOY5da8EQRWXf7A4P7CdraI0EpjbK0+NzpYY1Mmo89Z1rhEb1UxPE3o7gKs27A==",
   "success": true,
-  "projectFilePath": "E:\\doanweb\\project\\XayDungWebAphone.csproj",
+  "projectFilePath": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\XayDungWebAphone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trand\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\trand\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

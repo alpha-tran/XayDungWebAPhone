@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mhoMwmPxssjVqDy4/eATkOrePjaOqEPT1gOXQC5js+I=",
+  "Hash": "c6mlz6sCTPWgZ0l0uqGily9q9/8zhaBAHMuUWXxbwXM=",
   "Source": "XayDungWebAphone",
   "BasePath": "_content/XayDungWebAphone",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "XayDungWebAphone\\wwwroot",
       "Source": "XayDungWebAphone",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\XayDungWebAphone.styles.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\XayDungWebAphone.styles.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "XayDungWebAphone.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\bundle\\XayDungWebAphone.styles.css"
+      "OriginalItemSpec": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\XayDungWebAphone.styles.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\XayDungWebAphone.bundle.scp.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\XayDungWebAphone.bundle.scp.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "XayDungWebAphone.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\DOANCOSO\\DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\XayDungWebAphone.bundle.scp.css"
+      "OriginalItemSpec": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\XayDungWebAphone.bundle.scp.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap-theme.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap-theme.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap-theme.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\bootstrap-theme.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/bootstrap-theme.min.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\site.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\css\\site.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\favicon.ico",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\favicon.ico",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\_Layout.cshtml",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\_Layout.cshtml",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/_Layout.cshtml",
       "AssetKind": "Build",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\_Layout.cshtml"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\_Layout.cshtml.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\_Layout.cshtml.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/_Layout.cshtml.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\_Layout.cshtml.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\1200x375.jpg",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\1200x375.jpg",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/1200x375.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1200x375.jpg"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1711701907283-1200x193_Banner-Hot-Section-Homepage-Desktop.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\2019.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\2019.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/2019.webp",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2019.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\a1.jpg",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\a1.jpg",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/a1.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a1.jpg"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\apple-ipad-air-10-9-2020-2.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\apple-ipad-air-10-9-2020-2.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/apple-ipad-air-10-9-2020-2.webp",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple-ipad-air-10-9-2020-2.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\apple-iphone-12-mini-5.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\apple-iphone-12-mini-5.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/apple-iphone-12-mini-5.webp",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple-iphone-12-mini-5.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\banner-1.png",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\banner-1.png",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/banner-1.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-1.png"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\favicon.png",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\favicon.png",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\gen-10-4.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\gen-10-4.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/gen-10-4.webp",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gen-10-4.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\image-removebg-preview_638022082728321716.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\image-removebg-preview_638022082728321716.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/image-removebg-preview_638022082728321716.webp",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-removebg-preview_638022082728321716.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone-15-pink-pure-back-iphone-15-pink-pure-front-2up-screen-usen_638301948854041434.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone-15-plus-yellow-pure-back-iphone-15-plus-yellow-pure-front-2up-screen-usen.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone-15-pro-max-blue-titanium-pure-back-iphone-15-pro-max-blue-titanium-pure-front-2up-screen-usen.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone-15-pro-natural-titanium-pure-back-iphone-15-pro-natural-titanium-pure-front-2up-screen-usen.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\logo.svg",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\logo.svg",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/logo.svg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcao1webp.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\quangcao1webp.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/quangcao1webp.webp",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quangcao1webp.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcao2.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\quangcao2.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/quangcao2.webp",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quangcao2.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\quangcaothucudoimoi.webp",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\quangcaothucudoimoi.webp",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/quangcaothucudoimoi.webp",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quangcaothucudoimoi.webp"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\images\\xiaomi14-web1.jpg",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\images\\xiaomi14-web1.jpg",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "images/xiaomi14-web1.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\xiaomi14-web1.jpg"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\js\\site.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\js\\site.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "XayDungWebAphone",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\",
+      "ContentRoot": "E:\\doanweb\\XayDungWebAphone\\XayDungWebAPhone\\wwwroot\\",
       "BasePath": "_content/XayDungWebAphone",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

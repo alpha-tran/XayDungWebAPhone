@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XayDungWebAphone
 build_property.RootNamespace = XayDungWebAphone
-build_property.ProjectDir = E:\doanweb\project\
+build_property.ProjectDir = E:\doanweb\XayDungWebAphone\XayDungWebAPhone\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\doanweb\project
+build_property.MSBuildProjectDirectory = E:\doanweb\XayDungWebAphone\XayDungWebAPhone
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/doanweb/project/Views/Home/Index.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/Home/Privacy.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/Home/_MenuPartial.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Home/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTWVudVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/Shared/Error.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/_ViewImports.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/Views/_ViewStart.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/doanweb/project/wwwroot/images/_Layout.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/wwwroot/images/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-iunbbcekx4
 
-[E:/doanweb/project/Views/Shared/_Layout.cshtml]
+[E:/doanweb/XayDungWebAphone/XayDungWebAPhone/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-swsjznu1xa

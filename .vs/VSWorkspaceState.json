@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\ViewModels"
   ],
-  "SelectedNode": "\\XayDungWebAphone.sln",
+  "SelectedNode": "\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

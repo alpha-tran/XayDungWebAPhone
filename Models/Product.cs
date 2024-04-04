@@ -9,11 +9,21 @@ public partial class Product
 
     public string NameProduct { get; set; } = null!;
 
-    public string Description { get; set; } = null!;
+    public string? Description { get; set; }
 
     public double Price { get; set; }
 
     public int IdCategory { get; set; }
+
+    public string? Img1 { get; set; }
+
+    public string? Img2 { get; set; }
+
+    public string? Img3 { get; set; }
+
+    public int NumberPro { get; set; }
+
+    public string? LinkPro { get; set; }
 
     public virtual Category IdCategoryNavigation { get; set; } = null!;
 

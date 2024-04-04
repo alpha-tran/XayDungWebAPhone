@@ -21,6 +21,8 @@ public partial class XayDungWebAphoneContext : DbContext
 
     public virtual DbSet<Client> Clients { get; set; }
 
+    public virtual DbSet<Menu> Menus { get; set; }
+
     public virtual DbSet<Order> Orders { get; set; }
 
     public virtual DbSet<OrderDetal> OrderDetals { get; set; }
@@ -32,8 +34,7 @@ public partial class XayDungWebAphoneContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=PHUT\\MSSQLSERVER01;Database=XayDungWebAphone;Trusted_Connection=True;TrustServerCertificate=true;");
+        => optionsBuilder.UseSqlServer("Server=LAPTOP-5IN00FKJ\\SQLEXPRESS02;Database=XayDungWebAPhone;Trusted_Connection=True;TrustServerCertificate=true;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -54,15 +55,21 @@ public partial class XayDungWebAphoneContext : DbContext
 
         modelBuilder.Entity<Category>(entity =>
         {
-            entity.HasKey(e => e.IdCategory);
+            entity.HasKey(e => e.IdCate);
 
             entity.ToTable("Category");
 
-            entity.Property(e => e.IdCategory).HasColumnName("Id_Category");
-            entity.Property(e => e.NameCategory)
+            entity.Property(e => e.IdCate).HasColumnName("Id_Cate");
+            entity.Property(e => e.Description).HasMaxLength(50);
+            entity.Property(e => e.LinkCate)
+                .HasMaxLength(10)
+                .IsFixedLength()
+                .HasColumnName("Link_Cate");
+            entity.Property(e => e.NameCate)
                 .HasMaxLength(50)
                 .IsFixedLength()
-                .HasColumnName("Name_Category");
+                .HasColumnName("Name_Cate");
+            entity.Property(e => e.NumberCate).HasColumnName("Number_Cate");
         });
 
         modelBuilder.Entity<Client>(entity =>
@@ -81,6 +88,29 @@ public partial class XayDungWebAphoneContext : DbContext
             entity.Property(e => e.Sdt)
                 .HasMaxLength(50)
                 .IsFixedLength();
+        });
+
+        modelBuilder.Entity<Menu>(entity =>
+        {
+            entity.HasKey(e => e.IdMenu);
+
+            entity.ToTable("Menu");
+
+            entity.Property(e => e.IdMenu).ValueGeneratedNever();
+            entity.Property(e => e.Description).HasMaxLength(50);
+            entity.Property(e => e.IdCate).HasColumnName("Id_Cate");
+            entity.Property(e => e.LinkMenu)
+                .HasMaxLength(50)
+                .IsFixedLength()
+                .HasColumnName("Link_Menu");
+            entity.Property(e => e.NumberMenu).HasColumnName("Number_Menu");
+            entity.Property(e => e.TitleMenu)
+                .HasMaxLength(50)
+                .HasColumnName("Title_Menu");
+
+            entity.HasOne(d => d.IdCateNavigation).WithMany(p => p.Menus)
+                .HasForeignKey(d => d.IdCate)
+                .HasConstraintName("FK_Menu_Category");
         });
 
         modelBuilder.Entity<Order>(entity =>
@@ -161,10 +191,17 @@ public partial class XayDungWebAphoneContext : DbContext
                 .HasMaxLength(100)
                 .IsFixedLength();
             entity.Property(e => e.IdCategory).HasColumnName("Id_Category");
+            entity.Property(e => e.Img1).HasMaxLength(50);
+            entity.Property(e => e.Img2).HasMaxLength(50);
+            entity.Property(e => e.Img3).HasMaxLength(50);
+            entity.Property(e => e.LinkPro)
+                .HasMaxLength(50)
+                .HasColumnName("Link_Pro");
             entity.Property(e => e.NameProduct)
                 .HasMaxLength(50)
                 .IsFixedLength()
                 .HasColumnName("Name_Product");
+            entity.Property(e => e.NumberPro).HasColumnName("Number_Pro");
 
             entity.HasOne(d => d.IdCategoryNavigation).WithMany(p => p.Products)
                 .HasForeignKey(d => d.IdCategory)
