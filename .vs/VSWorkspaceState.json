@@ -6,8 +6,11 @@
     "\\Models",
     "\\obj",
     "\\Properties",
-    "\\ViewModels"
+    "\\ViewModels",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
