@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\DOANCOSO\\DOANCOSO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\home\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\home\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\home\\_categorypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\home\\_categorypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\home\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\home\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\wwwroot\\css\\bootstrap-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:wwwroot\\css\\bootstrap-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6080C1A-8FC9-43CF-A8F6-A65BCFC2DDF9}|XayDungWebAphone.csproj|c:\\doancoso\\doancoso\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,52 +102,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHUAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T14:09:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_CategoryPartial.cshtml",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_CategoryPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\_CategoryPartial.cshtml",
               "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_CategoryPartial.cshtml",
               "RelativeToolTip": "Views\\Home\\_CategoryPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-02T08:53:06.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\_MenuPartial.cshtml",
-              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_MenuPartial.cshtml",
-              "RelativeToolTip": "Views\\Home\\_MenuPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:36:25.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAiwIQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:04:33.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T04:46:44.299Z"
             },
             {
               "$type": "Document",
@@ -143,7 +139,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAE4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T14:04:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap.css",
+              "ViewState": "AQIAAGUYAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-13T05:54:16.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T05:56:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_MenuPartial.cshtml",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\_MenuPartial.cshtml",
+              "RelativeToolTip": "Views\\Home\\_MenuPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T14:36:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T04:46:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-07T16:01:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-theme.css",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\bootstrap-theme.css",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\wwwroot\\css\\bootstrap-theme.css",
+              "RelativeToolTip": "wwwroot\\css\\bootstrap-theme.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-13T05:54:15.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Models\\Bill.cs",
+              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Models\\Bill.cs",
+              "RelativeToolTip": "Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:29:00.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
@@ -155,19 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\DOANCOSO\\DOANCOSO\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T14:09:55.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -179,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -191,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "XayDungWebAphoneContext.cs",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Models\\XayDungWebAphoneContext.cs",
               "RelativeDocumentMoniker": "Models\\XayDungWebAphoneContext.cs",
@@ -203,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DOANCOSO\\DOANCOSO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

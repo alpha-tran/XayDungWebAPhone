@@ -3,12 +3,31 @@
 <!DOCTYPE html>
 <html lang="en">
 </html>
-<div class="col-md-2">
+
+@* <div class="col-md-2">
     <ul class="nav navbar-nav">
         @foreach (var item in Model.categories)
         {
-            @* <li><a href="/@item.Link">@item.NameCategory</a></li> *@
+            <li><a href="/@item.Link">@item.NameCategory</a></li>
         }
+    </ul>
+</div> *@
+<style>
+    .col-md-2 {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+<div class="col-md-2">
+    
+    <ul class="nav nav-pills nav-stacked" style="background-color:#f1f1f1">
+        <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+        <li><a asp-area="" asp-controller="Phone" asp-action="Index">Điện thoại</a></li>
+        <li><a asp-area="" asp-controller="Clock" asp-action="Index">Đồng hồ</a></li>
+        <li><a asp-area="" asp-controller="Earphone" asp-action="Index">IPad</a></li>
+        <li><a asp-area="" asp-controller="MacBook" asp-action="Index">Macbook</a></li>
+        <li><a asp-area="" asp-controller="Accessory" asp-action="Index">Phụ kiện</a></li>
     </ul>
 </div>
 
@@ -45,8 +64,8 @@
     </a>
 </div>
 
-<div class="col-md-2">
-    <ul class="nav nav-pills nav-stacked" role="tablist">
+<div class="col-md-2 ">
+    <ul class="nav nav-pills nav-stacked " style="background-color:#f1f1f1" role="tablist">
         <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
         <li><a href="#">Sữa chữa</a></li>
         <li><a href="#">Bảo hành</a></li>
